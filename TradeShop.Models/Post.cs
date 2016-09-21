@@ -11,6 +11,5 @@ namespace TradeShop.Models
         public string Header { get; set; }
         public string Description { get; set; }
         public string[] Pictures { get; set; }
-        public int fuck { get; set; }
     }
 }
